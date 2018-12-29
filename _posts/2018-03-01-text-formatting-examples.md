@@ -1,5 +1,5 @@
 ---
-title:  "Text formatting examples"
+title:  "Markdown Guide"
 categories: example
 ---
 
