@@ -1,7 +1,6 @@
 ---
 title:  "Object formatting examples"
 categories: example
-comments: true
 mathjax: true
 ---
 
