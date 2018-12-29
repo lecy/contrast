@@ -5,6 +5,9 @@ comments: true
 mathjax: true
 ---
 
+{:toc}
+
+
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it.
 
 {% highlight c %}
