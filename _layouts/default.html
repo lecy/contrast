@@ -28,9 +28,9 @@
   {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}</nav>{% endif %}
   <nav>
     {% if site.icons %}{% for link in site.icons %}<a class="icon" href="{{ link[1] }}/{{ page.path }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %} 
-    <a href="https://github.com/lecy/contrast/edit/gh-pages/_posts/{{page.path}}" target="_blank">
+    <a href="https://github.com/lecy/contrast/edit/gh-pages/{{page.path}}" target="_blank">
       <i class="fab fa-github" id="github_icon"></i></a>
-    <a href="https://github.com/lecy/contrast/edit/gh-pages/_posts/{{page.path}}" target="_blank">
+    <a href="https://github.com/lecy/contrast/edit/gh-pages/{{page.path}}" target="_blank">
       <svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#github"></use></svg></a>
   </nav> 
 </header>
