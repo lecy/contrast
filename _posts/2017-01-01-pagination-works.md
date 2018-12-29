@@ -3,7 +3,7 @@ title: "Pagination works"
 ---
 
 <style>
-  .body {
+.body {
 margin:0;  
 }
 @font-face {
@@ -58,7 +58,7 @@ If you have `paginate` and `show_excerpts` enabled, then this should be paginate
 <body class="body">
 <footer id="red">
   <h1 class="text">DMC</h1>
-  <h2 class="text2">&copy;	DIMENSIONMC - DESIGNED BY DEN & FLASH</h2>
+  <h2 class="text2">DIMENSIONMC - DESIGNED BY DEN & FLASH</h2>
   <h2 class="text3">-POWERED BY ENJIN-</h2>
 </footer>
 </body>
