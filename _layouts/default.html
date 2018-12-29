@@ -26,8 +26,8 @@
   {% unless site.hide_title %}<h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>{% endunless %}
   {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}</nav>{% endif %}
   {% if site.icons %}<nav>{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %}
-    <a class="icon" href="https://github.com/{{ site.github_info.username }}/{{ site.github_info.website-repo }}/edit/{{ site.github_info.branch }}/{{page.path}}" target = "_blank">
-    <svg><use xlink:href="/contrast/assets/fontawesome/icons.svg#github"></use></svg></a>
+    <a class="icon" href="https://github.com/lecy/contrast/edit/gh-pages/_posts/2017-01-01-pagination-works.md" target="_blank">
+    <svg><use xlink:href="assets/fontawesome/icons.svg#github"></use></svg></a>
   </nav>  
 </header>
 
