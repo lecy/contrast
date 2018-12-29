@@ -12,7 +12,7 @@ show_excerpts: false         # show article previews on the home page instead of
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 dark_theme: false            # enables dark mode
 dark_header: true           # uses dark header whether dark_theme is enabled or not
-minimal_theme: true          # radically minimalistic theme
+minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.html	
@@ -22,7 +22,7 @@ navigation:                  # show navigation links in the header
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
   envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/lecy/contrast/edit/gh-pages/_posts/2017-01-01-pagination-works.md"
+  # github: "https://github.com/lecy/contrast/edit/gh-pages/_posts/2017-01-01-pagination-works.md"
   
 
 github_info:
