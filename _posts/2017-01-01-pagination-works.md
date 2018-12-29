@@ -1,4 +1,51 @@
 ---
 title: "Pagination works"
 ---
+
+<style>
+#red{ 
+  border-top: solid #A44B4B;
+  border-width: 15px;
+  background: #2E2E2E; 
+  position:absolute; 
+  bottom:0; 
+  height:100%;
+  width:100%; 
+  height:180px; 
+}
+
+.text {
+  color: #424242;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.text2 {
+  color: #424242;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -50px;
+}
+
+.text3 {
+  color: #424242;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -20px;
+  float: center;
+}
+</style>
+
+
 If you have `paginate` and `show_excerpts` enabled, then this should be paginated.
+
+
+
+
+<footer id="red">
+  <h1 class="text">DMC</h1>
+  <h2 class="text2">&copy;	DIMENSIONMC - DESIGNED BY DEN & FLASH</h2>
+  <h2 class="text3">-POWERED BY ENJIN-</h2>
+</footer>
+
