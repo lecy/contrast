@@ -27,7 +27,7 @@ icons:                       # show icons in the header, for all possible icons 
 
 github_info:
     username:          lecy # Github location of the course
-    branch:            master
+    branch:            gh-pages
     website-repo:      contrast
 
 
