@@ -25,10 +25,10 @@ You can insert images with an exclamation mark in front of square brackets ![ ],
 It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
 
 ```
-![](assets/image_file.png)
+![](assets/flower.jpg)]
 ```
 
-![Flower](/assets/flower.jpg)]
+![](assets/flower.jpg)]
 
 ---
 
