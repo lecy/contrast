@@ -1,6 +1,5 @@
 ---
 title:  "Markdown Guide"
-categories: example
 ---
 
 Markdown is a set of simple conventions for formatting text on GitHub. It makes it easy to create professional documents with minimal effort. You need only follow a few simple rules.
