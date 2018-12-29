@@ -5,6 +5,7 @@
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta name="author" content="{{ page.author | default: site.author | escape}}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/brands.css" integrity="sha384-1KLgFVb/gHrlDGLFPgMbeedi6tQBLcWvyNUN+YKXbD7ZFbjX6BLpMDf0PJ32XJfX" crossorigin="anonymous">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/classes.css" | relative_url }}">
@@ -28,7 +29,7 @@
   <nav>
     {% if site.icons %}{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %} 
     <a class="icon" href="https://github.com/lecy/contrast/edit/gh-pages/_posts/2017-01-01-pagination-works.md" target="_blank">
-      <i class="fab fa-github"></i></a>
+      <i class="fab fa-github" id="github_icon"></i></a>
   </nav> 
 </header>
 
