@@ -30,7 +30,7 @@ You can also add a strikethrough to text using a ~~double tilde~~.
 Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
 
 ```
-[link text](https://link_url.com)
+[Google News](www.news.google.com)
 ```
 
 [Google News](www.news.google.com)
@@ -51,9 +51,13 @@ It is common practice to place all of the image files in an "assets" or "images"
 ```
 ![](assets/flower.jpg)
 ```
+Or you can link directly to an image online using the URL address of the image:
 
-![](assets/flower.jpg)
+```
+[Flower](https://unsplash.com/photos/iGrsa9rL11o)
+```
 
+[Flower](https://unsplash.com/photos/iGrsa9rL11o)
 
 
 
