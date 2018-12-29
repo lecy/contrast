@@ -16,7 +16,7 @@ minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.html	
-  - archive.md	
+  - markdown.md	
   - about.md
 
 
