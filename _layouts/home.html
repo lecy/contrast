@@ -32,7 +32,8 @@ layout: default
   {% assign counter=counter | plus:1 %}
   <div>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format )}}</time>
-    <h3><p>"CHAPTER {{ counter }} "</p><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <h3><p>CHAPTER {{ counter }} </p></h3>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
   </div>
   {% endfor %}
 </article>
