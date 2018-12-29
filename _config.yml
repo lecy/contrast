@@ -21,8 +21,8 @@ navigation:                  # show navigation links in the header
 
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
-  # envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  # github: "https://github.com/lecy/contrast/edit/gh-pages/"
+  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
+  github: "https://github.com/lecy/contrast/edit/gh-pages/"
   
 
 github_info:
