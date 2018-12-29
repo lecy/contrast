@@ -11,12 +11,21 @@ With Markdown, it is possible to emphasize words by making them *italicized*, us
 
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
 
-You can create [inline links](https://github.com) by wrapping link text in square brackets [ ], and then wrapping the URL in parentheses ( ). For example you can link your [home page](/).
+You can create [inline links](https://github.com) by wrapping link text in square brackets [ ], and then wrapping the URL in parentheses ( ). 
 
 ```
 [link text](https://link_url.com)
+```
+You can insert images with an exclamation mark in front of square brackets ![ ], and then wrapping the image file name in parentheses ( ). 
 
+```
 ![](image_file.png)
+```
+
+It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
+
+```
+![](assets/image_file.png)
 ```
 
 ---
