@@ -26,9 +26,9 @@ icons:                       # show icons in the header, for all possible icons 
   rss: "/contrast/feed.xml"
 
 github_info:
-    username:          lecy # Github location of the course
-    branch:            gh-pages
-    website-repo:      contrast
+  username: lecy            # Github location of the course
+  branch: gh-pages
+  website-repo: contrast
 
 
 comments:                    # embed disqus or isso comments
