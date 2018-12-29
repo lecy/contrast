@@ -6,6 +6,10 @@ title: "Pagination works"
   .body {
 margin:0;  
 }
+@font-face {
+  font-family: Lato;
+  src: url(https://fonts.googleapis.com/css?family=Lato:900);
+}
 #red{ 
   border-top: solid #A44B4B;
   border-width: 15px;
@@ -19,6 +23,7 @@ margin:0;
 
 .text {
   color: #424242;
+  font-family: Lato;
   font-size: 60px;
   text-align: center;
   margin-top: 50px;
@@ -26,6 +31,7 @@ margin:0;
 
 .text2 {
   color: #424242;
+  font-family: Lato;
   font-size: 20px;
   text-align: center;
   margin-top: -50px;
@@ -33,6 +39,7 @@ margin:0;
 
 .text3 {
   color: #424242;
+  font-family: Lato;
   font-size: 20px;
   text-align: center;
   margin-top: -20px;
