@@ -98,6 +98,7 @@ You can create [inline links](https://github.com) by wrapping link text in squar
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
 
 ```
+
 | Title 1          | Title 2          | Title 3         | Title 4         |
 |------------------|------------------|-----------------|-----------------|
 | First entry      | Second entry     | Third entry     | Fourth entry    |
