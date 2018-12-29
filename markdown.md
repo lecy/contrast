@@ -28,6 +28,8 @@ It is common practice to place all of the image files in an "assets" or "images"
 ![](assets/image_file.png)
 ```
 
+![Flower](/assets/flower.jpg)]
+
 ---
 
 
