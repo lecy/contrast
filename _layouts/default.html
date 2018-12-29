@@ -30,6 +30,7 @@
     {% if site.icons %}{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %} 
     <a class="icon" href="https://github.com/lecy/contrast/edit/gh-pages/{{page.path}}" target="_blank">
       <svg><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a>
+      # <svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#github"></use></svg></a>
   </nav> 
 </header>
 
