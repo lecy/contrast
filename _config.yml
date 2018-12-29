@@ -25,6 +25,12 @@ icons:                       # show icons in the header, for all possible icons 
   github: "https://github.com/niklasbuschmann/contrast"
   rss: "/contrast/feed.xml"
 
+github_info:
+    username:          lecy # Github location of the course
+    branch:            master
+    website-repo:      contrast
+
+
 comments:                    # embed disqus or isso comments
 #  disqus: "disqus-contrast"
 #  isso: "comments.mysite.org"
