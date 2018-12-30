@@ -93,7 +93,7 @@ Or you can link directly to an image online using the URL address of the image:
 ![](https://unsplash.com/photos/iGrsa9rL11o)
 ```
 
-![](https://unsplash.com/photos/iGrsa9rL11o)
+![](/images/flower.jpg)
 
 
 
