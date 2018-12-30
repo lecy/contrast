@@ -15,7 +15,31 @@ Here are the most useful formatting rules for Markdown:
 
 
 
-# Text
+---
+
+# Headers
+
+```
+# Heading One (h1)
+
+## Heading Two (h2)
+
+### Heading Three (h3)
+
+#### Heading Four (h4)
+
+##### Heading Five (h5)
+
+###### Heading Six (h6)
+```
+
+![](heading_formats.png)
+
+---
+
+
+
+# Text Style
 
 ```
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
@@ -73,78 +97,10 @@ Or you can link directly to an image online using the URL address of the image:
 
 
 
----
-
-# Headers
-
-```
-# Heading One (h1)
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
-```
-# Heading One (h1)
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
-
----
 
 
 
-# Blockquotes
-
-## Single line
-
-```
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
-```
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
-
-## Multiline
-
-```
-> What do you get when you cross an insomniac, an agnostic and a dyslexic?
->
-> Someone who stays up all night wondering whether there really is a dog.
->
-> – _Hal Incandenza_
-```
-
-> What do you get when you cross an insomniac, an agnostic and a dyslexic?
->
-> Someone who stays up all night wondering whether there really is a dog.
->
-> – _Hal Incandenza_
-
-
-
-## Horizontal Rule
-
-```
----
-```
-
----
-
-
-
-
-## Tables
+# Tables
 
 ```
 | Title 1          | Title 2          | Title 3         | Title 4         |
@@ -199,3 +155,45 @@ Or you can link directly to an image online using the URL address of the image:
 3. Third item
     1. First nested item
     2. Second nested item
+
+
+
+
+# Blockquotes
+
+## Single line
+
+```
+> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+```
+> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+
+## Multiline
+
+```
+> What do you get when you cross an insomniac, an agnostic and a dyslexic?
+>
+> Someone who stays up all night wondering whether there really is a dog.
+>
+> – _Hal Incandenza_
+```
+
+> What do you get when you cross an insomniac, an agnostic and a dyslexic?
+>
+> Someone who stays up all night wondering whether there really is a dog.
+>
+> – _Hal Incandenza_
+
+
+
+# Horizontal Rule
+
+```
+---
+```
+
+---
+
+
+
+
