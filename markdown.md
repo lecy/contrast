@@ -49,8 +49,12 @@ Insert images in a similar way, but add an exclamation mark in front of square b
 It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
 
 ```
-![](assets/flower.jpg)
+![](images/flower.jpg)
 ```
+
+![](images/flower.jpg)
+
+
 Or you can link directly to an image online using the URL address of the image:
 
 ```
