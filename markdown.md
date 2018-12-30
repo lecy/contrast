@@ -33,7 +33,7 @@ Here are the most useful formatting rules for Markdown:
 ###### Heading Six (h6)
 ```
 
-![](/images/heading_formats.png)
+![headings](/images/heading_formats.png)
 
 
 ---
@@ -85,7 +85,7 @@ It is common practice to place all of the image files in an "assets" or "images"
 ![](images/flower.jpg)
 ```
 
-![](images/flower.jpg)
+![flower](images/flower.jpg)
 
 
 
