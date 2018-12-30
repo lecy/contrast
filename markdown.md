@@ -90,10 +90,10 @@ It is common practice to place all of the image files in an "assets" or "images"
 Or you can link directly to an image online using the URL address of the image:
 
 ```
-![](https://unsplash.com/photos/iGrsa9rL11o)
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
 ```
 
-![](/images/flower.jpg)
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
 
 
 
