@@ -38,6 +38,13 @@ The most useful formatting rules for Markdown are below:
 
 # Text Style
 
+With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+
+Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
+
+You can also add a strikethrough to text using a ~~double tilde~~.
+
+
 ```
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
 
@@ -45,12 +52,6 @@ Of course, you can combine those two formats, with both _**bold and italicized**
 
 You can also add a strikethrough to text using a ~~double tilde~~.
 ```
-
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
-
-Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
-
-You can also add a strikethrough to text using a ~~double tilde~~.
 
 
 
