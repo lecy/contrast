@@ -33,7 +33,7 @@ Here are the most useful formatting rules for Markdown:
 ###### Heading Six (h6)
 ```
 
-![](heading_formats.png)
+![](images/heading_formats.png)
 
 ---
 
