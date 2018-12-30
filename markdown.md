@@ -6,6 +6,12 @@ Markdown is a set of simple conventions for formatting text on GitHub. It makes 
 
 Here are the most useful formatting rules for Markdown:
 
+{:.no_toc}
+* TOC
+{:toc}
+
+
+
 
 # Text
 
