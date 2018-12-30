@@ -33,9 +33,11 @@ Here are the most useful formatting rules for Markdown:
 ###### Heading Six (h6)
 ```
 
-![](/images/heading_formats.png)
+![test1](/images/heading_formats.png)
 
+![test2](images/heading_formats.png)
 
+![test3](assets/heading_formats.jpg)
 
 ---
 
@@ -86,8 +88,9 @@ It is common practice to place all of the image files in an "assets" or "images"
 ![](images/flower.jpg)
 ```
 
-![](assets/flower.jpg)
+![test1](images/flower.jpg)
 
+![test2](/assets/flower.jpg)
 
 Or you can link directly to an image online using the URL address of the image:
 
