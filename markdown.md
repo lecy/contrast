@@ -2,22 +2,45 @@
 title:  "Markdown Guide"
 ---
 
-Markdown is a set of simple conventions for formatting text on GitHub. It makes it easy to create professional documents with minimal effort. You need only follow a few simple rules.
+Markdown is a set of simple conventions for formatting text on GitHub. It makes it easy to create professional documents with minimal effort. 
 
-## Formatting Text
+Here are the most useful formatting rules for Markdown:
 
-```
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
-```
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
-
-You can create [inline links](https://github.com) by wrapping link text in square brackets [ ], and then wrapping the URL in parentheses ( ). 
+# Text
 
 ```
-[link text](https://link_url.com)
+With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+
+Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
+
+You can also add a strikethrough to text using a ~~double tilde~~.
 ```
-You can insert images with an exclamation mark in front of square brackets ![ ], and then wrapping the image file name in parentheses ( ). 
+
+With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+
+Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
+
+You can also add a strikethrough to text using a ~~double tilde~~.
+
+
+
+# Hyperlinks
+
+Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
+
+```
+[Google News](https://news.google.com)
+```
+
+[Google News](https://news.google.com)
+
+
+
+
+# Images
+
+Insert images in a similar way, but add an exclamation mark in front of square brackets ![ ], and the image file name goes in the parentheses ( ). 
 
 ```
 ![](image_file.png)
@@ -29,12 +52,19 @@ It is common practice to place all of the image files in an "assets" or "images"
 ![](assets/flower.jpg)
 ```
 
-![](assets/flower.jpg)
+![](assets/flower/jpb)
+
+Or you can link directly to an image online using the URL address of the image:
+
+```
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
+```
+
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
 
 ---
 
-
-## Formatting Headers
+# Headers
 
 ```
 # Heading One (h1)
@@ -65,30 +95,32 @@ It is common practice to place all of the image files in an "assets" or "images"
 
 
 
-## Formatting Blockquotes
+# Blockquotes
 
-### Single line
+## Single line
 
 ```
 > My mom always said life was like a box of chocolates. You never know what you're gonna get.
 ```
 > My mom always said life was like a box of chocolates. You never know what you're gonna get.
 
-### Multiline
+## Multiline
 
 ```
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+> What do you get when you cross an insomniac, an agnostic and a dyslexic?
 >
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
+> Someone who stays up all night wondering whether there really is a dog.
 >
 > – _Hal Incandenza_
 ```
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+> What do you get when you cross an insomniac, an agnostic and a dyslexic?
 >
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
+> Someone who stays up all night wondering whether there really is a dog.
 >
 > – _Hal Incandenza_
+
+
 
 ## Horizontal Rule
 
@@ -97,6 +129,8 @@ It is common practice to place all of the image files in an "assets" or "images"
 ```
 
 ---
+
+
 
 
 ## Tables
@@ -122,9 +156,10 @@ It is common practice to place all of the image files in an "assets" or "images"
 ---
 
 
-## Lists
 
-### Unordered
+# Lists
+
+## Unordered
 
 ```
 * First item
@@ -139,7 +174,7 @@ It is common practice to place all of the image files in an "assets" or "images"
     * First nested item
     * Second nested item
 
-### Ordered
+## Ordered
 
 ```
 1. First item
