@@ -54,10 +54,10 @@ It is common practice to place all of the image files in an "assets" or "images"
 Or you can link directly to an image online using the URL address of the image:
 
 ```
-[Flower](https://unsplash.com/photos/iGrsa9rL11o)
+![Flower](https://unsplash.com/photos/iGrsa9rL11o)
 ```
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o)
+![Flower](https://unsplash.com/photos/iGrsa9rL11o)
 
 
 
