@@ -76,17 +76,18 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 Insert images in a similar way, but add an exclamation mark in front of square brackets ![ ], and the image file name goes in the parentheses ( ). 
 
 ```
-![](image_file.png)
+![alt_text_here](image_file.png)
 ```
+
+The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image. It 
 
 It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
 
 ```
-![](images/flower.jpg)
+![a flower](images/flower.jpg)
 ```
 
-![flower](images/flower.jpg)
-
+![a flower](images/flower.jpg)
 
 
 Or you can link directly to an image online using the URL address of the image:
