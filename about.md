@@ -2,13 +2,13 @@
 title: "About"
 ---
 
-> **Data for the Public Good:**
+> **DATA FOR THE PUBLIC GOOD:**
 >
 > Building Data-Driven Organizations in the Public and Nonprofit Sector
 >
-> *Watts College of Public Service and Community Solutions*
->
-> *Arizona State University*
+> *Watts College of Public Service and Community Solutions, Arizona State University*
+
+
 
 This collaborative text was created through efforts of students in the ASU course PAF 586: Data for the Public Good. The class covers topics about the sources and uses of data in modern organizations, with goals of understanding management approaches to:
 
@@ -26,4 +26,5 @@ This text is meant to provide a broad overview of these topics, broken out into 
 
 Students in the course have contributed the chapter summaries and best practice overviews. 
 
+The *Jekyll* website design was adapted from Niklas Buschmann's [Contrast theme](https://github.com/niklasbuschmann/contrast).
 
