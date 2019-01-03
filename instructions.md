@@ -1,3 +1,5 @@
-# Instructions
+---
+title: "Instructions"
+---
 
 Text here...
