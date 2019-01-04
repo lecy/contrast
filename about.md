@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-> **DATA FOR THE PUBLIC GOOD:**
+> **DATA ANALYTICS FOR THE PUBLIC GOOD:**
 >
-> Building Data-Driven Organizations in the Public and Nonprofit Sector
+> **Building Data-Driven Organizations in the Public and Nonprofit Sector**
 >
-> *Watts College of Public Service and Community Solutions, Arizona State University*
+> _**Watts College of Public Service and Community Solutions, Arizona State University**_
 
 
 
@@ -26,5 +26,23 @@ This text is meant to provide a broad overview of these topics, broken out into 
 
 Students in the course have contributed the chapter summaries and best practice overviews. 
 
-The *Jekyll* website design was adapted from Niklas Buschmann's [Contrast theme](https://github.com/niklasbuschmann/contrast).
+
+1. Lindsey Duncan 
+1. Rachael Goodwin  
+1. Erin Hart  
+1. Thomas Kolwicz 
+1. Carlos Lopez 
+1. Joseph Lynch 
+1. Julie Moore 
+1. Marcela Morales 
+1. Lorna Romero 
+1. William Seeley 
+1. Matthew Simon 
+1. Dennis Stockwell 
+1. Justin Stoker 
+1. Lauren Zajac 
+
+--- 
+
+The *Jekyll* website design was adapted from Niklas Buschmann's [contrast theme](https://github.com/niklasbuschmann/contrast).
 
