@@ -58,6 +58,41 @@ You can also add a strikethrough to text using a ~~double tilde~~.
 
 
 
+# Lists
+
+## Unordered
+
+```
+* First item
+* Second item
+* Third item
+    * First nested item
+    * Second nested item
+```
+* First item
+* Second item
+* Third item
+    * First nested item
+    * Second nested item
+
+## Ordered
+
+```
+1. First item
+2. Second item
+3. Third item
+    1. First nested item
+    2. Second nested item
+```
+1. First item
+2. Second item
+3. Third item
+    1. First nested item
+    2. Second nested item
+
+
+
+
 # Hyperlinks
 
 Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
@@ -124,40 +159,6 @@ Or you can link directly to an image online using the URL address of the image:
 
 
 ---
-
-
-
-# Lists
-
-## Unordered
-
-```
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-```
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-## Ordered
-
-```
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
-```
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
 
 
 
